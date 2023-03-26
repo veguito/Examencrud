@@ -1,0 +1,25 @@
+[{
+  "_id": 1,
+  "nombre": "Caballo de troya",
+  "autor": "j.j.Benitez",
+  "editorial": "Universal",
+  "edicion": "1990"
+},{
+  "_id": 2,
+  "nombre": "Del conflicto armado a la negociacion",
+  "autor": "Oscar Martinez peñate",
+  "editorial": "Universal",
+  "edicion": "1995"
+},{
+  "_id": 3,
+  "nombre": "Leamos lo nuestro",
+  "autor": "Miriam Zablah",
+  "editorial": "Ediciones servicios educativos",
+  "edicion": "2000"
+},{
+  "_id": 4,
+  "nombre": "La rueda del conocimiento",
+  "autor": "Tomas Martin Briz",
+  "editorial": "Universal",
+  "edicion": "2005"
+}]
